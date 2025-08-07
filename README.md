@@ -4,8 +4,6 @@
 
 Este projeto é um modelo completo de banco de dados para um **Sistema de Gestão de Transporte Urbano**. Aqui você encontra tudo para gerenciar linhas de ônibus, veículos, motoristas, viagens, passageiros e vendas de passagens — tudo organizado e pronto para uso! 📊✨
 
-Ideal para quem quer entender e aplicar conceitos de banco de dados relacionais em um cenário real do dia a dia.
-
 ## 🗂 Estrutura do Banco de Dados
 
 O projeto conta com as seguintes tabelas principais:
