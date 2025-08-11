@@ -59,6 +59,3 @@ O projeto conta com as seguintes tabelas principais:
 
 
 **Jhennife** — [LinkedIn](https://linkedin.com/in/jhennife) | [GitHub](https://github.com/jhevante)
-
-
-Quer que eu te envie esse README formatado para um arquivo `.md` para você subir direto no seu repositório?
